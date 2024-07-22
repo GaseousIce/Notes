@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "f8cdce865177898a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f003bfae0cbd3269",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc918f4af4fb7ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7th sem notes/Intellectual Property Rights/Module 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb10ef0861c54d71",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b0dedd0f2e05d39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccf4e88874f719f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a551f0fc6665ab7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#PR",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7d5ff0b3b1331e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c0020abb07ea2d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfb4c60a14d49d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3528637b785b1c1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7th sem notes/Intellectual Property Rights/Module 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c33f95e92d9728d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7th sem notes/Intellectual Property Rights/Module 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4492f93e47ce79d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a75aae90605c0889",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7th sem notes/Intellectual Property Rights/Module 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fc918f4af4fb7ad3",
+  "lastOpenFiles": [
+    "7th sem notes/Entrepreneurship Development/Module 1.md",
+    "7th sem notes/Intellectual Property Rights/Module 1.md",
+    "7th sem notes/Intellectual Property Rights",
+    "2024-07-22.md",
+    "7th sem notes/Entrepreneurship Development",
+    "ED notes.md",
+    "7th sem notes.md",
+    "7th sem notes",
+    "Welcome.md"
+  ]
+}
